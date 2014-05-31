@@ -46,12 +46,14 @@ taken from news programming in Japan and the UK.
 
 Japan, as will be shown, has a more flexible attitude to reading/writing (RW) direction – and as regards directionality in expressive action overall – than does the UK (the relation is more complex than the oppositional dichotomy occasionally propounded), and as such one would expect the visual semiotic resources which are theorized as encoding meanings of given and new under the influence of RW direction to be distributed differently. As the results (see sec.4.2) show, there is variation in the distributions but it is not related to RW direction.
 
+
 **Note**
 In order to avoid excessive repetition this paper uses the following abbreviations: LR (left to right) and RL (right to left), L/RHS (left/right hand side) and TB (top to bottom).
 
 ### 1.1  Directionality theory: Why left and right are special
 
 Up and down can be defined universally in terms of references to gravity, ‘towards the centre of the planet’ being, roughly speaking ‘down’, the direction working against gravity being ‘up’. Likewise front and back, forwards and backwards, can be defined with reference to the human body – we have a definite physiological front and back. Left and right however pose a particular problem relying as they do on a distinction between the two more or less identical halves of bilaterally symmetrical objects, human beings, rather than on some external natural feature [@Gross:1978]. As Finnerty et al. [-@Finnerty:2004] point out, bilateral symmetry is the norm in nature, 99 per cent of animals belong to the evolutionary lineage Bilateria (ibid.:1335), it may be this shared feature that allows animals to identify other animals, that is, potential prey and predators.
+
 
 The type of directionality we define using the terms ‘left’ and ‘right’ is thus qualitatively different to the up/down and backwards/forwards axes; considered in terms of our everyday existence, one might reposition oneself downwards by lying down, one could not reposition oneself upwards in the same way without external aids, similarly, running backwards is far more hazardous than running forwards, however, there is nothing to chose between walking round a left-hand corner and a right-hand corner. Thus while discussions the former two types of directionality are necessarily limited by the facts of gravity and human morphology, left/right directionality has been the subject of much popular and academic thought and speculation.
 
@@ -121,7 +123,8 @@ From the neurological point of view, there can be seen to exist a species-wide t
 
 All human beings, with their various asymmetries, are pre-existed by the culture into which they are born, the particular features of an individual’s cultural milieu can have further profound effects on the way they interact with the external world.
 
-For those acculturated into a literate society, the written word is an important bearer of cultural knowledge; ‘[c]ivilization cannot exist without language […] Writing, though not obligatory, is a defining marker of civilization.’[@Robinson:2009, 1]. What we can read affects what we know of the world and where we place ourselves within that world. Perhaps surprisingly though, reading affects not just our propositional knowledge of the world but also our direct perception of that world.
+For those acculturated into a literate society, the written word is an important bearer of cultural knowledge; ‘[c]ivilization cannot exist without language […] Writing, though not obligatory, is a defining marker of civilization.’[@Robinson:2009, 1]. What we can read affects what we know of the world and where we place ourselves within that world. Perhaps surprisingly though, reading affects not just our propositional knowledge of the world but also our direct perception of that world. [-@Kress:1996, 33]
+
 
 There is evidence to suggest that how we (the literate portion of humankind) interact with the world around us is in some degree affected by the predominant reading direction of our home culture. Comparative work in the field of cognitive science on readers of LR languages, mainly English, and speakers of non-LR languages, Hebrew, Hindi, Urdu, and Japanese, has demonstrated variations, not always consistent, in the strength and direction of laterality across a broad variety of tasks, visual preferences and areas of perception  [e.g. @Ishii:2011; @Kazandjian:2010; @Tversky:1991; @Vaid:1989] 
 
@@ -184,44 +187,47 @@ Oyama suggests that, under the influence of writing direction, the ordering of i
 
 [^3]: This article, published in the Journal of Intercultural Communication (Online: www.immi.se/intercultural/nr3/oyama.htm, last accessed 14 February 2014) also makes up a significant part of Oyama (2001), in collaboration with Carey Jewitt.
 
-** 
+*While Oyama's broad conclusion that there are differences between tendenceies in directionality in the UK and Japan can be accepted, the dichotomising simplicity needs further consideration; as will be shown, it is by no means clear what the "traditional way of writing Japanese"(ibid.) actually is.*
 
-<!-- Unfortunately, things are rarely so neat and Oyama’s analysis has certain shortcomings. The sample of texts she draws on is limited and she omits any mention of the directional environment from which the images were drawn. As will be seen, in Japan, where directionality is unstable, context play a singularly important role. Furthermore, as I will show, the notion of ‘the traditional way of writing Japanese’ needs careful examination.
+### 3.2  Images and RW direction in Japan
 
-Oyama’s analysis is based on consideration of;
+Just as the direction in which an exit sign arrow points is affected by the physical relationship of sign to exit so the directional context of, for example, a newspaper graphic or other visual is created by the surrounding text; text (in the sense of sentences, words etc.) has an internally fixed direction, visuals are more free to adjust.
 
-1.	one exit sign from the UK and one from Japan (reproduced in Oyama 2001), and
-2.	four ‘before and after’ printed advertisements, two from Japan and two from the UK.
+| **rewrite this section**
+|
+| remove web images - too old, too arbitrary
+| keep trucks and vehicles
+| keep book
+|
 
-It seems reasonable to assume that Oyama’s Japanese exit sign points to the left (and carries the illustration of the figure exiting to the left) because that is the direction in which the exit lies, and similarly the sign from the UK points to an exit located spatially to the right of the viewer. If the physical location of the exits were reversed so, perhaps, would be the signs.
-
-![**Figure 2**: Exit signs showing RL preference in Japan. Source: Author’s photographs](https://dl.dropboxusercontent.com/u/24949891/images/bidirec.jpg)
-
-Having said that, the exit signs shown in fig.2 do seem to back up Oyama’s observation. Where the physical relationship of the sign to its referent is ambiguous (to exit in either direction would make equal spatial sense here) there may be a preference in Japan for RL directionality. My point here is that Oyama, while arriving at what might be an acceptable analysis, does so via inadequate evidence, seemingly having ignored any possible physical relationship – that is, the situational context – of her texts (the exits signs) and their referents. -->
-
-### 3.2  Images and RW direction
-
-Just as the direction in which an exit sign arrow points is affected by the physical relationship of sign to exit so the directional context of, for example, a newspaper graphic or other visual is created by the surrounding text; text (in the sense of sentences, words etc.) has an internally fixed direction, visuals are more free to adjust. This short section looks at images taken from two contexts, firstly, images from web-pages (text running LR) and images from magazines (text direction variable).
+<!-- This short section looks at images taken from two contexts, firstly, images from web-pages (text running LR) and images from magazines (text direction variable).
 
 The ‘before-and-after’ processual images shown in fig. 3 show LR directionality consistent with the surrounding text. Admittedly, these images were cherry-picked as counter-examples to Oyama, but they were far from difficult to find.
 
 ![**Figure 3:** Processual graphics from Japanese websites showing LR directionality. Source: *Anshin Honpo* (www.rakuten.co.jp/anshin) and *Ginza de Tsūhan* (gin2shop.com), online retailing websites, both images offline as of 14 Feb 2014](https://dl.dropboxusercontent.com/u/24949891/images/wigs.png)
 
-Similar processual images from shūkanshi weekly news magazines showed a similar sensitivity to the predominant directionality of surrounding text, even in an environment where text direction can vary considerably (see fig.4). Three out of four adverts (in a very unscientific survey of magazines the author had to hand) maintained directionality of text an image within individual advertisements (see table 1).
+Similar processual images from *shūkanshi* weekly news magazines showed a similar sensitivity to the predominant directionality of surrounding text, even in an environment where text direction can vary considerably (see fig.4). Three out of four adverts (in a very unscientific survey of magazines the author had to hand) maintained directionality of text an image within individual advertisements (see table 1). -->
 
+| **mention multimodal layouts**
+| magazines such as shukanshi
+| mixture of reading directions for both images and text
+| variety of reading directions, freedom
 
-![**Figure 4:** This diagram shows the reading direction for a typical Japanese *shūkanshi* and the possible layouts for processual ‘before and after’ graphics and text. Graphic elements in a single advertisement are read in a consistent direction either all LR or vice versa, however textual elements within a single example may appear laid out to be read LR or TB. ](https://dl.dropboxusercontent.com/u/24949891/images/shukanshi.png)
+<!-- ![**Figure 4:** This diagram shows the reading direction for a typical Japanese *shūkanshi* and the possible layouts for processual ‘before and after’ graphics and text. Graphic elements in a single advertisement are read in a consistent direction either all LR or vice versa, however textual elements within a single example may appear laid out to be read LR or TB. ](https://dl.dropboxusercontent.com/u/24949891/images/shukanshi.png)
+-->
 
 ![**Figure 5:** Different writing/reading directions on opposing pages of single spread of same book. Arrows show reading direction. (Hara et al. 2001, p.76-77)](https://dl.dropboxusercontent.com/u/24949891/images/oddbook.jpg)
 
-Magazine|RW direc.|‘Before-after’ image direc.
----|---|---
+<!-- Magazine title|RW direc.|‘Before-after’ image direc.
+---|:---:|:---:
 *Shūkan Bunshun*, 14 Apr 2005| LR* | LR
-*Shūkan Shinchō*, 28 Jul 2005 | LR |LR
-*Friday*, 28 Jan 2005|LR|RL
-*Friday*, 4 Feb 2005|LR|LR
+*Shūkan Shinchō*, 28 Jul 2005 | LR\ |LR
+*Friday*, 28 Jan 2005|LR\ |RL
+*Friday*, 4 Feb 2005|LR\ |LR
 
-: Table 1: Directionality in ‘before-after’ images is largely consistent with that of the surrounding text, in these cases the individual advertisement rather than the magazine as a whole, the text of which runs in the opposite direction to that of most of the images. (* Also contained some vertical text.)
+: **Table 1:** Directionality in ‘before-after’ images is largely consistent with that of the surrounding text, in these cases the individual advertisement rather than the magazine as a whole, the text of which runs in the opposite direction to that of most of the images. (* Also contained some vertical text.)
+-->
+
 
 **Freedom of directionality in Japanese texts**
 
@@ -277,7 +283,14 @@ All packages were viewed and panning shots and soundbites identified and coded; 
 
 The direction of portrayals of speakers in soundbites, defined as all cuts where the video showed the speaker speaking and the audio used was the words being spoken, was taken from the gaze direction of the speaker. Cuts taken from situations, such as press conferences, where gaze direction tends to be unstable were not coded, neither were interviews where the speaker (often in a remote studio or live location) spoke directly to camera. Where a number of cuts were taken from the same interview only the first was coded.
 
+``` {#cmt}
+declarative definition of bite
+how was gaze definition defined, observed and recorded?
+````
+
 ### 4.1  A typology of pans
+
+
 
 In addition to the exclusions outlined above, some pans were also excluded; while panning shots share the attribute of lateral motion their significance does not derive from this. Lateral motion, while physically similar for all panning shots, should not be considered equally meaningful in all pans. The following section illustrates the reasoning behind this statement and makes clear my choice of just one type – the ‘volitional’ pan – for analysis here.
 
@@ -290,15 +303,19 @@ In order for this type of classification system to function it is important to d
 
 These should be considered separately, and if one is concerned with one or other of the two phenomena analytical stress should be laid accordingly. It is possible for a panning motion to have its origins in the desire of the camera operator to create a pan but to have the direction constrained by the subject; for example, coverage of road accidents often includes images of the stretch of road where the accident occurred. In the UK and Japan, which both drive on the left, it would be natural for a camera operator to stand as close to the scene of the accident as they can, probably on the same side of the road. This would mean traffic coming from their right as they faced the road and the ‘natural’ pan direction would be LR, with, and not against, the flow of traffic. Standing on the other side of the road would mean that traffic flowing in the opposite direction to the pan would be in the foreground, images of passing vehicles would be blurred and possibly distracting.
 
-Pans also need to be considered in relation to other lateral movements; not all lateral movements are pans, it is often necessary for a camera operator to adjust a shot due to some element within the frame shifting, a slight lateral readjustment is not a pan. In this sense, the follow-pan (f-pan, see below) is an example of extreme lateral adjustment.
+Pans also need to be considered in relation to other lateral movements; not all lateral movements are pans, it is often necessary for a camera operator to adjust a shot due to some element within the frame shifting, a slight lateral readjustment is not a pan. In this sense, the *follow-pan* (f-pan, see below) is an example of extreme lateral adjustment.
 
-This study is interested in the choices made by camera operators when creating a panning shot, it thus focusses on ‘volitional’ pans; these do not seem to have been created under the influence of the objects they portray, that is they are primarily the product of pro-active creative choices made by the camera operator. They are contrasted below with the ‘motivated’ pan. There may be nothing in the visual content of the images to distinguish one type from another, typing is down to the analyst in their capacity as an individual capable of understanding (and reflecting on) visual material they encounter.
+This study is interested in the choices made by camera operators when creating a panning shot, it thus focusses on ‘volitional’ pans; these do not seem to have been created under the influence of the objects they portray, that is they are primarily the product of pro-active creative choices made by the camera operator. They are contrasted below with the ‘motivated’ pan. **There may be nothing in the visual content of the images to distinguish one type from another, typing is down to the analyst in their capacity as an individual capable of understanding (and reflecting on) visual material they encounter.**
+```  {#cmt}
+REWRITE ABOVE PARA!
+````
 
 ####	I  Volitional pans (v-pan)
 
 V-pans can often be identified by asking oneself the question: Would it make any difference, in either the understandability of the visual content or the aesthetic quality of the resulting image, if the pan had been the other way around?  If the answer seems to be ‘no’ then you may be viewing a v-pan.
 
 I also include here pans in which the camera operator has used something in the environment, often a passerby or passing car or bus as an opportunity to pan; here the motivation for the existence of the pan is the camera operator’s but the direction is largely dictated by elements in the environment. For instance, in order to illustrate the spatial relationship between a bus-stop and a certain shop a camera operator may decide to pan between them, the pan could follow a pedestrian walking along the pavement between these two points.
+
 Pans instigated by the creator in order to add some visual interest to an otherwise static scene should be included here also; for example, images of documents or newspapers, or of audio-recorders playing back taped conversations etc. There may be in the objects in theses cases that necessitates any movement, the movement emerges from the image creator’s feeling that a simple static shot might be visually uninteresting for the viewer.
 
 #### II  Motivated pans (m-pan)
@@ -313,11 +330,11 @@ With the f-pan the motion here is introduced by the camera operator to maintain 
 
 Not all pans fall neatly into one of these idealized types; for instance, the fairly common image which consists of a pan over a line of text enabling the viewer to read along. Here the motivation for the existence of the pan can be argued to be internal to the camera operator (there are few lines of text so long that they will not fit into a static frame if sufficiently wide), yet the direction of the pan depends on the reading direction of the text, the motivation for the directionality of the pan (or indeed ‘tilt’ for TB text) is external.
 
-The primary aim of this typology of pans is to draw attention to the variety of semiological possibilities which tend to be subsumed beneath the veneer of physical similarity, the types I suggest are open and malleable but their origin in notions of motivation and choice should, I think, be considered important.
+The primary aim of this typology of pans is to draw attention to the variety of semiological possibilities which tend to be subsumed beneath the veneer of formal similarity, the types I suggest are open and malleable but their origin in notions of motivation and choice should, I think, be considered important.
 
 ### 4.2  Results
 
-Table 2 describe the data derived by means of the procedures above. The frequency counts for pan and bite direction data are graphed for comparison in figure 7. As can be seen from the table, the BBC uses far fewer v-pans. Over 11% of NHK cuts were v-pans, under 4% of those from the BBC were. NHK’s images are more mobile than the BBC’s. They tend to pan more evenly whereas the BBC is more under the influence of reading direction; pans from BBC packages showed a marked bias towards the LR direction, roughly 60% of pans were LR. NHK pans were almost exactly equally spread, 36 LR and 34 RL.
+Table 2 describes the data derived by means of the procedures above. The frequency counts for pan and bite direction data are graphed for comparison in figure 7. As can be seen from the table, the BBC uses far fewer v-pans. Over 11% of NHK cuts were v-pans, less than 4% of those from the BBC were. NHK’s images are more mobile than the BBC’s. They tend to pan more evenly whereas the BBC is more under the influence of reading direction; pans from BBC packages showed a marked bias towards the LR direction, roughly 60% of pans were LR. NHK pans were almost exactly equally spread, 36 LR and 34 RL.
 
 Data for bites, representing the direction faced by individuals shown in soundbites, showed the same tendencies as the pan data; the BBC images, culturally part of a strong LR milieu, show a preference to portray speakers facing right, whereas NHK shows a slight RL tendency.
 
