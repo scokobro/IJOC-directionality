@@ -1,0 +1,2 @@
+    args: '-s -S --self-contained --ascii'
+        'html': 'html5'
